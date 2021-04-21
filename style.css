@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Flamenco:wght@300&display=swap');
+*{
+    margin: 0;
+    font-family: 'Flamenco', cursive;
+}
+main{
+    margin-left: 4rem; 
+    margin-bottom: 4rem;
+}
+nav{
+    padding: 1rem;
+    background-color:#E53E3E;
+}
+.top-left{
+    color: black;
+    font-size: 8vh;
+    text-decoration: underline;
+    text-align: center;
+    padding: 2rem;
+    margin: 3rem;
+}
+textarea{
+    width: 60%;
+    height: 20vh;
+    font-weight: bold;
+    margin: 3rem 0rem;
+    font-size: 3vh;
+}
+img{
+    margin: 0% 20%;
+    height: 260px;
+    width: 25%;
+}
+button{
+    margin: 2rem 0rem;
+    padding: 1rem;
+    font-size: 3vh;
+    font-weight: bold;
+    display: block;
+    background-color: #E53E3E;
+}
+.txt-output{
+    border: 1px solid black;
+    width: 60%;
+    height: 15vh;
+    font-weight: bold;
+    font-size: larger;
+}
+#op-stat{
+    font-weight: bold;
+    margin-bottom: 1rem;
+    font-size:x-large;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+    padding: 2rem;
+    background-color:#E53E3E;
+}
+footer p{
+    padding-top: 1rem;
+}
